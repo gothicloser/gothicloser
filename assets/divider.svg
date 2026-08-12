@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="48" viewBox="0 0 900 48" role="img" aria-label="ornamental divider">
+  <defs>
+    <linearGradient id="dline" x1="40" y1="24" x2="860" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2e1065" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#9b5de5" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#2e1065" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="48" fill="transparent"/>
+  <line x1="60" y1="24" x2="840" y2="24" stroke="url(#dline)" stroke-width="1.4"/>
+  <g transform="translate(450 24)">
+    <path d="M0 -10 L6 0 L0 10 L-6 0 Z" fill="#9b5de5"/>
+    <path d="M-42 0 C-28 -10, -14 -10, 0 0 C14 -10, 28 -10, 42 0" fill="none" stroke="#6b21a8" stroke-width="1.1"/>
+    <circle cx="-48" cy="0" r="2" fill="#c084fc"/>
+    <circle cx="48" cy="0" r="2" fill="#c084fc"/>
+  </g>
+</svg>
