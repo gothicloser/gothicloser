@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="64" viewBox="0 0 720 64" role="img" aria-label="stack">
+  <defs>
+    <linearGradient id="rl" x1="52" y1="0" x2="248" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0"/><stop offset="50%" stop-color="#8b5cf6" stop-opacity="1"/><stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="rr" x1="472" y1="0" x2="668" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0"/><stop offset="50%" stop-color="#8b5cf6" stop-opacity="1"/><stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="720" height="64" rx="10" fill="#0b0613"/>
+  <rect x="0.6" y="0.6" width="718.8" height="62.8" rx="10" fill="none" stroke="#3b1876" stroke-width="1.2"/>
+  <path d="M360 8 L366.5 14.5 L360 21 L353.5 14.5 Z" fill="#a78bfa"/>
+  <line x1="52" y1="42" x2="248" y2="42" stroke="url(#rl)" stroke-width="1.4"/>
+  <line x1="472" y1="42" x2="668" y2="42" stroke="url(#rr)" stroke-width="1.4"/>
+  <text x="360" y="49" text-anchor="middle" fill="#e9d5ff" font-family="Georgia, 'Palatino Linotype', Palatino, 'Times New Roman', serif" font-size="19" font-weight="600" letter-spacing="0.4em">STACK</text>
+</svg>
