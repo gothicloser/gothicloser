@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="44" viewBox="0 0 900 44" role="img" aria-label="divider">
-  <defs>
-    <linearGradient id="d" x1="70" y1="0" x2="830" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0"/><stop offset="50%" stop-color="#8b5cf6" stop-opacity="1"/><stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <line x1="70" y1="22" x2="830" y2="22" stroke="url(#d)" stroke-width="1.6"/>
-  <g transform="translate(450 22)"><path d="M0 -8 L6 0 L0 8 L-6 0 Z" fill="#8b5cf6"/><circle cx="-46" cy="0" r="2.4" fill="#a78bfa"/><circle cx="46" cy="0" r="2.4" fill="#a78bfa"/></g>
-</svg>
